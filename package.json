@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql": "^2.18.1"
+  },
+  "name": "track-my-employee",
+  "description": "track your employee!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1086jjohnston/track-my-employee.git"
+  },
+  "author": "jjohnston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1086jjohnston/track-my-employee/issues"
+  },
+  "homepage": "https://github.com/1086jjohnston/track-my-employee#readme"
+}
