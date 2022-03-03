@@ -1,6 +1,6 @@
 # track-my-employee
 
-Employee Tracker is an app ran with Mysql, Inquirer, console.table, JavaScript, and Node. Employee Traacker is used to add, delete, & view employees. You may also view and customize an employee's role within the company, their department, & salary. 
+Employee Tracker is an app ran with Mysql, Inquirer, console.table, JavaScript, and Node. Employee Tracker is used to add, delete, & view employees. You may also view and customize an employee's role within the company, their department, & salary. 
 
 --------------------------------------------------
 
